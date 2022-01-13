@@ -46,7 +46,7 @@
    
    *SECCIÓN 11–5 La fórmula de la onda seno*
    
-    17. Para una corriente sinusoidal particular referida a 0°, el valor pico es de 100 mA. Determine el valor
+    17.Para una corriente sinusoidal particular referida a 0°, el valor pico es de 100 mA. Determine el valor
     instantáneo en cada uno de los siguientes puntos:
     
     19.La onda seno A tiene 30° de retraso con respecto a la onda seno B. Ambas tienen valores pico de 15 V.
@@ -74,7 +74,7 @@
     29.Una onda seno con valor rms de 10.6 V aparece montada sobre un nivel de cd de 24 V. ¿Cuáles son los
     valores máximo y mínimo de la forma de onda resultante?
     
-    31. Una onda pico de 6 V aparece montada en un voltaje de cd de 8 V. Si el voltaje de cd se reduce a 5 V,
+    31.Una onda pico de 6 V aparece montada en un voltaje de cd de 8 V. Si el voltaje de cd se reduce a 5 V,
     ¿qué tan negativa llegaría a ser la onda seno?
    
    
@@ -192,12 +192,12 @@
    
    *SECCIÓN 12–7 Aplicaciones de los capacitores*
    
-    51. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de
+    51.Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de
     la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
    
    *SECCIÓN 12–8 Circuitos de capacitor conmutado*
    
-    53. En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una
+    53.En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una
     forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
     
    
