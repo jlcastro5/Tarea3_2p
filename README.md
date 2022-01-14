@@ -269,26 +269,45 @@
     (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
     
     ![](https://github.com/jlcastro5/Tarea6/blob/aa838c16a9393b1ec521d64cc0d0bdab4783a3f8/Figura12-73.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea6/blob/aaf2c8e2083a49710274fc5726f3672f828138ed/1.PNG)
    
    *SECCIÓN 12–5 Capacitores en circuitos de cd*
    
     31.Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las
     combinaciones siguientes:
     
+    ![](https://github.com/jlcastro5/Tarea6/blob/298182964c39272658412c15f081d19f1fbc1c65/ejer%2031.PNG)
+    
     33.En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el 
     voltaje presente en el capacitor en los instantes posteriores?
     
     ![](https://github.com/jlcastro5/Tarea6/blob/aa838c16a9393b1ec521d64cc0d0bdab4783a3f8/Figura12-75.PNG)
     
+    Apartir de la formula del ejericio anterior se obtine los valores para:
+
+    a).- 12.354v
+    b)- 16.487v
+    c).- 17.984v
+    d)- 19.2157v
+    
+    
     35.Repita el problema 33 con los siguientes tiempos
+    
+    ![](https://github.com/jlcastro5/Tarea6/blob/aaf2c8e2083a49710274fc5726f3672f828138ed/3.PNG)
     
     37.¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
     
     ![](https://github.com/jlcastro5/Tarea6/blob/aa838c16a9393b1ec521d64cc0d0bdab4783a3f8/Figura12-74.PNG)
     
+    ![](https://github.com/jlcastro5/Tarea6/blob/aaf2c8e2083a49710274fc5726f3672f828138ed/4.PNG)
+    
     39.Determine la constante de tiempo para el circuito de la figura 12-77.
 
     ![](https://github.com/jlcastro5/Tarea6/blob/aa838c16a9393b1ec521d64cc0d0bdab4783a3f8/Figura12-77.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea6/blob/aaf2c8e2083a49710274fc5726f3672f828138ed/5.PNG)
+    
     
     41.(a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. 
     El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se
