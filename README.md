@@ -156,6 +156,8 @@
        Los valores mediante los armonicos impares los cuales nos dan los
        siguiente resusltados.
        75kHz,125kHz,175kHz,225kJz,275kHz,325kHz
+       
+     ![](https://github.com/jlcastro5/Tarea6/blob/af37457b93aadf74f7750189141c97692a4be3ef/154.PNG)
 
    
    *SECCIÓN 11–10 El osciloscopio*
