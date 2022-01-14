@@ -11,7 +11,8 @@
       * Analizar de forma correcta los resultaos obtenidos, establecer la relación de los componentes en un simulador virtual y corroborar los resultados obtenidos de formateórica.
 
 2. MARCO TEORICO
- ![](https://github.com/jlcastro5/Tarea6/blob/4c6d4b20b81897d19c24be3bfc370cd380f2daf3/Tarea6.jpeg)
+
+   ![](https://github.com/jlcastro5/Tarea6/blob/4c6d4b20b81897d19c24be3bfc370cd380f2daf3/Tarea6.jpeg)
 
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
 
@@ -288,15 +289,19 @@
     
     Apartir de la formula del ejericio anterior se obtine los valores para:
 
-    a).- 12.354v
-    b)- 16.487v
-    c).- 17.984v
-    d)- 19.2157v
+       a).- 12.354v
+       b)- 16.487v
+       c).- 17.984v
+       d)- 19.2157v
     
     
     35.Repita el problema 33 con los siguientes tiempos
     
     ![](https://github.com/jlcastro5/Tarea6/blob/aaf2c8e2083a49710274fc5726f3672f828138ed/3.PNG)
+    
+       a) 17.89V
+       b) 12.79V
+       C) 5.589V
     
     37.¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
     
@@ -328,33 +333,42 @@
     
     ![](https://github.com/jlcastro5/Tarea6/blob/d5adb6d0c51af8e670c027a371940117a8023d2f/Figura12-72.PNG)
     
+       a) 30.4 Ω
+       b) 116 kΩ
+       c) 49.7 Ω
+    
     45.Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor.
     ¿Cuál es la reactancia?
     
+       Su reactancia es de 200Ω mediante la formula de voltaje sinusiodal.
+    
     47.Determine la potencia verdadera y la potencia reactiva en el problema 46.
+    
+       La potencia es de 0W y su potencia reactiva es de 3.4mVAR.
     
     49.Determine el valor de C1 en la figura 12-82
 
     ![](https://github.com/jlcastro5/Tarea6/blob/d5adb6d0c51af8e670c027a371940117a8023d2f/Figura12-82.PNG)
+    
+        El valor de C1 es de 0.00541 µF
    
    *SECCIÓN 12–7 Aplicaciones de los capacitores*
    
     51.Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de
     la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
     
-    
+        El voltaje afectado se reduce en el circuito mostrado.
    
    *SECCIÓN 12–8 Circuitos de capacitor conmutado*
    
     53.En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una
     forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
-    
-   
-
-  
+       
+       El valor de la resistencia que emula es de 4.55kΩ
+       
 4. VIDEO
 
-
+   https://www.youtube.com/watch?v=VBRAi5ibYsc
 
 5. CONCLUSIONES
       * El presente trabajo permitio aplicar los metodos ya conocidos de resolucion de circuitos electricos con capacitores y resistencias en serie y en paralelo, otrogo resultados confiables ya que fueron simulados, cada circuito reporto valores como resistencia total o corrientes en cada componente de dicho circuito para permitir obtener resultados y un analisis correcto, por lo tanto llegamos a comprender de una manera el funcionamiento del tema.
