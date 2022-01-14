@@ -1,4 +1,4 @@
-# Informe Tarea 3
+# Informe Tarea 6
 1. OBJETIVOS 
 
    Objetivo general
