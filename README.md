@@ -321,6 +321,7 @@
     
     ![](https://github.com/jlcastro5/Tarea6/blob/aa838c16a9393b1ec521d64cc0d0bdab4783a3f8/Figura12-79.PNG)
     
+    ![](https://github.com/jlcastro5/Tarea6/blob/af37457b93aadf74f7750189141c97692a4be3ef/154.PNG)
    
    *SECCIÓN 12–6 Capacitores en circuitos de ca*
    
