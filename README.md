@@ -290,7 +290,7 @@
 
     ![](https://github.com/jlcastro5/Tarea6/blob/aa838c16a9393b1ec521d64cc0d0bdab4783a3f8/Figura12-77.PNG)
     
-    * 41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. 
+    41.(a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. 
     El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se
     queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
     (b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja 
@@ -304,17 +304,23 @@
     43.En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. 
     Determine la reactancia total en cada caso. 
     
+    ![](https://github.com/jlcastro5/Tarea6/blob/d5adb6d0c51af8e670c027a371940117a8023d2f/Figura12-72.PNG)
+    
     45.Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor.
     ¿Cuál es la reactancia?
     
     47.Determine la potencia verdadera y la potencia reactiva en el problema 46.
     
     49.Determine el valor de C1 en la figura 12-82
+
+    ![](https://github.com/jlcastro5/Tarea6/blob/d5adb6d0c51af8e670c027a371940117a8023d2f/Figura12-82.PNG)
    
    *SECCIÓN 12–7 Aplicaciones de los capacitores*
    
     51.Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de
     la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
+    
+    
    
    *SECCIÓN 12–8 Circuitos de capacitor conmutado*
    
