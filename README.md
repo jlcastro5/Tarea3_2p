@@ -2,11 +2,13 @@
 1. OBJETIVOS 
 
    Objetivo general
+      * Explicar y resolver los problemas presentados en los capítulos once y doce del libro "Principios de circuitos eléctricos" de Floyd mediante el uso de los conocimientos adquiridos en clases y el contenido del libro referente al desarrollo de ecuaciones simultaneas para encontrar un voltaje y las corrientes en el análisis de un circuito eléctrico de manera ágil, permitiéndonos identificar las características correspondientes y lograr resolver cualquier tipo de circuito con un análisis y razonamiento adecuado.
 
 
     Objetivos específicos
 
-      * 
+      * Identificar de una manera concreta las incognitas, resolver los circuitos mediante los los metodos explicados en los precentes capitulos sobre los voltajes correspondientes.
+      * Analizar de forma correcta los resultaos obtenidos, establecer la relación de los componentes en un simulador virtual y corroborar los resultados obtenidos de formateórica.
 
 2. MARCO TEORICO
  ![](https://github.com/jlcastro5/Tarea6/blob/4c6d4b20b81897d19c24be3bfc370cd380f2daf3/Tarea6.jpeg)
@@ -354,7 +356,7 @@
 
 
 5. CONCLUSIONES
-
+      * El presente trabajo permitio aplicar los metodos ya conocidos de resolucion de circuitos electricos con capacitores y resistencias en serie y en paralelo, otrogo resultados confiables ya que fueron simulados, cada circuito reporto valores como resistencia total o corrientes en cada componente de dicho circuito para permitir obtener resultados y un analisis correcto, por lo tanto llegamos a comprender de una manera el funcionamiento del tema.
 
 
 6. BIBLIOGRAFÍA 
